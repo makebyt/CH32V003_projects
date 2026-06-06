@@ -24,3 +24,6 @@ _______________________________________________
  \*** <br> 
  Выбор пинов в main.h <br>
  Частота 24/48 МГц <br>
+
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-orange)](https://ko-fi.com/makebyt)
