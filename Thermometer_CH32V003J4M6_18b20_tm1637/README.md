@@ -6,10 +6,13 @@ For one DS18B20 sensor
 - Temperature output to UART
 - Temperature output to TM1637
 
+The LED just blinks as an indicator of operation.
 
 *** <br>
 Pin selection in main.h <br>
 Frequency 24/48 MHz <br>
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-orange)](https://ko-fi.com/makebyt)
 
 _______________________________________________
 
@@ -21,9 +24,8 @@ _______________________________________________
 - Вывод температуры в UART
 - Вывод температуры на ТМ1637
 
+Светодиод просто мигает, указывая что устройство работает.
+
  \*** <br> 
  Выбор пинов в main.h <br>
  Частота 24/48 МГц <br>
-
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-orange)](https://ko-fi.com/makebyt)
