@@ -1,0 +1,42 @@
+CH32V003J4M6 (24 МГц)
+Для датчика MAX6675
+
+Температура отображается в целых градусах Цельсия, 
+без знаков после запятой.
+
+Подключение
+SO - PA1[1]
+SCK- PA2[3]
+CS - PC4[7]
+
+Вывод температуры TM1637
+DIO - PC2[6]
+CLK - PC1[5]
+
+При низком заряде Li-ion
+на индикаторе выводится 'L'
+
+Скорость опроса SPI примерно 500кГц
+Весь опрос примерно за 35 мкС
+
+++++++++++++++++++++++++++++++++++++++++
+
+CH32V003J4M6 (24 MHz)
+For MAX6675 sensor
+
+Temperature is displayed in whole degrees Celsius,
+without decimal places.
+
+Connection
+SO - PA1[1]
+SCK - PA2[3]
+CS - PC4[7]
+
+TM1637 Temperature Pin
+DIO - PC2[6]
+CLK - PC1[5]
+
+When the Li-ion battery is low, the display shows 'L'
+
+SPI polling rate is approximately 500 kHz
+The entire polling process takes approximately 35 µS
