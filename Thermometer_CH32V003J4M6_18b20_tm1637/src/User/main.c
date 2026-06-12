@@ -1,4 +1,4 @@
-// DS18B20 1-Wire temperature reader for WCH CH32V003
+// DS18B20 1-Wire temperature reader for WCH CH32V003 (48 MHz)
 
 #include "main.h"
 #include "debug.h"
