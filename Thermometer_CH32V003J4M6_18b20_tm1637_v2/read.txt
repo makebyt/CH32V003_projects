@@ -11,7 +11,7 @@ LED - Подключение к PC4
 Светодиод просто мигает, указывая что устройство работает.
 
 Выбор пинов в main.h
-Частота 48 МГц
+Частота 24/48 МГц
 _____________________
 
 For one DS18B20 sensor
@@ -27,4 +27,4 @@ When the charge is low, the "L" symbol is displayed.
 The LED just blinks as an indicator of operation.
 
 Pin selection in main.h
-Frequency 48 MHz
+Frequency 24/48 MHz

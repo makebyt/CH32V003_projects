@@ -13,7 +13,7 @@ The LED just blinks as an indicator of operation <br>
 
 *** <br>
 Pin selection in main.h <br>
-Frequency 48 MHz (24 MHz no stable)<br>
+Frequency 24/48 MHz <br>
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-orange)](https://ko-fi.com/makebyt)
 
@@ -35,5 +35,5 @@ _______________________________________________
 
  \*** <br> 
  Выбор пинов в main.h <br>
- Частота 48 МГц <br>
+ Частота 24/48 МГц <br>
 
