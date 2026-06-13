@@ -7,7 +7,7 @@ For one DS18B20 sensor
 The LED just blinks as an indicator of operation.
 
 Pin selection in main.h <br>
-Frequency 48 MHz <br>
+Frequency 24/48 MHz <br>
 _______________________________
 
 Для одного датчика DS18B20
@@ -19,4 +19,4 @@ _______________________________
 Светодиод просто мигает, указывая что устройство работает.
 
 Выбор пинов в main.h
-Частота 48 МГц
+Частота 24/48 МГц
