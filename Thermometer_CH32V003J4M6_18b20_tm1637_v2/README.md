@@ -1,4 +1,4 @@
-**Thermometer with CH32V003J4M6 and DS18b20**
+**Thermometer with CH32V003J4M6 and DS18b20 v2**
 
 For one DS18B20 sensor
 - DS18B20 - Connection to PA2
@@ -19,7 +19,7 @@ Frequency 24/48 MHz <br>
 
 _______________________________________________
 
-**Термомерт на CH32V003J4M6 и DS18b20**
+**Термомерт на CH32V003J4M6 и DS18b20 v2**
 
 Для одного датчика DS18B20
 - DS18B20 - Подключение к PA2
